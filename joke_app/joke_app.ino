@@ -8,8 +8,8 @@
 
 // --- WiFi Credentials ---
 // PLEASE UPDATE THESE
-const char* ssid = "skynet";
-const char* password = "ukstokes.com";
+const char* ssid = "";
+const char* password = "";
 
 // --- Pins and Devices ---
 XPT2046 touch = XPT2046(SPI, TOUCHSCREEN_CS_PIN, TOUCHSCREEN_IRQ_PIN);
